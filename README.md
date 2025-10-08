@@ -47,6 +47,10 @@ The dashboard offers a centralized view of:
 
 ---
 
+<img width="1436" height="335" alt="image" src="https://github.com/user-attachments/assets/d6558ccf-b07f-4182-9792-497ce4ca2909" />
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
